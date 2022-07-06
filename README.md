@@ -1,5 +1,7 @@
 ***ReadMe***  
 Logical AND Gate Implemented in Python from Scratch using Single Layer Perceptron.  
+![image](https://user-images.githubusercontent.com/91070351/177524544-ef0c773d-ada2-4047-9ba6-510de5017625.png)  
+
 I have used Perceptron Training Rule to tune my weights and bias.  
 ***Perceptron Rule***  
 So the Formula for Tuning the weights for Perceptron Training Rule is:  
